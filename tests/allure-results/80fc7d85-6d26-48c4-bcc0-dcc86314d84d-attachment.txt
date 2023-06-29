@@ -1,0 +1,5 @@
+{'level': 'SEVERE', 'message': 'https://cdn-ima.33across.com/ob.js 0:11740 "33Across Lexicon ID Mappings Provider: PID not found"', 'source': 'console-api', 'timestamp': 1687952635276}
+{'level': 'SEVERE', 'message': 'https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function', 'source': 'javascript', 'timestamp': 1687952635306}
+{'level': 'SEVERE', 'message': 'https://tags.crwdcntrl.net/lt/c/16589/sync.min.js 0:10302 "SYNC.JS: Aborting because TCF string was expected but not present."', 'source': 'console-api', 'timestamp': 1687952635374}
+{'level': 'SEVERE', 'message': 'https://tags.crwdcntrl.net/lt/c/16589/sync.min.js 0:10302 "SYNC.JS: Aborting because no consent was present on the request or stored server-side"', 'source': 'console-api', 'timestamp': 1687952635374}
+{'level': 'SEVERE', 'message': 'https://tags.crwdcntrl.net/lt/c/16589/sync.min.js 0:10302 "SYNC.JS: Aborting due to above errors."', 'source': 'console-api', 'timestamp': 1687952635375}
